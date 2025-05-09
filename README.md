@@ -89,7 +89,6 @@ ORDER BY SUM(click_count) DESC
 1. Clone the repository:
    ```bash
    git clone https://github.com/kchabau/Analyzing_Wikipedia_Clickstreams_with_PySpark.git
-   cd wiki-clickstream-pyspark
    ```
 
 2. Launch PySpark shell or Jupyter environment.
